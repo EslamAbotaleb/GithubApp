@@ -1,0 +1,15 @@
+# Uncomment the next line to define a global platform for your project
+ platform :ios, '9.0'
+
+target 'GithubTask' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for GithubTask
+   pod 'Moya'
+   pod 'Toast-Swift'
+   pod 'Kingfisher'
+   pod 'ReachabilitySwift'
+   pod 'NVActivityIndicatorView'
+
+end

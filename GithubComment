@@ -1,0 +1,15 @@
+/*
+ baseUrl:
+  https://api.github.com
+  
+ 1. get users by pagnation
+ baseUrl/users?since=pageNumber&per_page=number
+  since include of page number
+  per_page include of every page contain numbers of users for example 10
+  
+ 2. when press on sepsfic repo includes of (repoName, description, forks_count, language, creating date, userImage)
+  must be take key html_url/repoName
+  https://github.com
+  
+*/
+

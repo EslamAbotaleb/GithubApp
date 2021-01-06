@@ -1,0 +1,6 @@
+framework module Pods_GithubTask {
+  umbrella header "Pods-GithubTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
